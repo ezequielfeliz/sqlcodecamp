@@ -1,0 +1,2 @@
+# sqlcodecamp
+learning sql freecodecamps
